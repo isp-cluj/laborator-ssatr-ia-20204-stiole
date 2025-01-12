@@ -6,9 +6,9 @@ public class Exercise1 {
         Address a1 = new Address("asdas", "123");
         System.out.println(a1);
         
-        Customer c1 = new Customer(new Address("aaa","bb"), "id1");
+        Customer c2 = new Customer(new Address("aaa","bb"), "id1");
         
-        System.out.println(c1);
+        System.out.println(c2);
         
     }
 }

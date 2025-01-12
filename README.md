@@ -19,3 +19,5 @@
 ## Laborator 4 (2h)
 
 - Protocolul AMQP si brokerul de mesaje RabbitMQ.
+
+Update test [1]
